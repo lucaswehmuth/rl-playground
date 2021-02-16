@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 import assets
 
 # print("first commit - attempt 1")
@@ -18,3 +19,11 @@ print("Name =", test_user.name, "| Age =", test_user.age)
 =======
 print("first commit - attempt 1")
 >>>>>>> parent of 42413d3... Test commit for conflicts
+=======
+import assets
+
+print("first commit - attempt 1")
+
+a = assets.Assets()
+print(a.name, a.quantity, a.price)
+>>>>>>> 42413d3... Test commit for conflicts
